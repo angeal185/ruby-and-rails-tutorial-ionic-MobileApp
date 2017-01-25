@@ -1,0 +1,1 @@
+<ion-view view-title="Ruby Advance"><ion-content><ion-list><ion-item collection-repeat="item in advanceItems" href="#/app/advance/{{item.url}}">{{item.title}}</ion-item></ion-list></ion-content></ion-view>
